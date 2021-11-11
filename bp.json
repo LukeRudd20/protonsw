@@ -1,0 +1,35 @@
+{
+	"producer_account_name": "protonsw",
+	"org": {
+		"candidate_name": "protonsw",
+		"website": "https://lukerudd20.github.io/protonsw/",
+		"code_of_conduct": "https://lukerudd20.github.io/protonsw/",
+		"email": "lukerudd07@gmail.com",
+		"ownership_disclosure": "https://lukerudd20.github.io/protonsw/",
+		"branding": {
+			"logo_256": "https://lukerudd20.github.io/protonsw/",
+			"logo_1024": "https://lukerudd20.github.io/protonsw/",
+			"logo_svg": ""
+		},
+		"location": {
+			"name": "United Kingdom",
+			"country": "UK",
+			"latitude": -4.381088,
+			"longitude": 50.470481
+		},
+		"social": {
+			"twitter": "protonsw"
+		}
+	},
+	"nodes": [
+		{
+			"location": {
+				"name": "United Kingdom",
+				"country": "UK",
+				"latitude": -4.381088,
+				"longitude": 50.470481
+			},
+			"node_type": "producer"
+		}
+	]
+}
